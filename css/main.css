@@ -15,6 +15,7 @@ body {
 
 .banner {
   background-color: #2b3851;
+  padding-top: 3rem;
 }
 
 .robot {
@@ -42,7 +43,6 @@ body {
   width: 125px;
   position: absolute;
   bottom: 30%;
-
 }
 
 .robot-head-right {
